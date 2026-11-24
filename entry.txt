@@ -1,0 +1,1 @@
+The printer finally works — it only prints the 'out of order' sign, perfectly, in colour, every single time.
